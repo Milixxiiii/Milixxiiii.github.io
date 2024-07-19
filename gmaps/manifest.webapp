@@ -1,0 +1,212 @@
+{
+	"name": "Maps",
+	"display": "Google Maps",
+	"description": "Get where you're going, faster",
+	"subtitle": "Directions, Traffic & Transit",
+	"theme": "#3367D6",
+	"version": "2018.807.0",
+	"start_url": "https://www.google.com/maps?force=pwa&source=mlkaiapp",
+	"origin": "app://google.com/maps",
+	"icons": {
+		"56": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAJpElEQVR4Ae2aBXAbWRZFewuWqWApzEzLu2FwZIWZEzMPMzMYwsyJOWxmZmbGoTCaZIf95t/Er0aqblng4XFXnadUh/rkvg/9Fan3+r5dvVfv1Xv1XkT0s6GnXKYMCXD2GOzveGpIoGPaYH+H+sEBjm3is3Wgv339AD/btAH+9if7+9t/LD6n4PcIpK8blK+NQYHO6iGBTseGBjpdEWLEDPJ3oIF+9joM8LMj0N/X9jF+tlf6+dkd6eNvpxJIXxcoPWbEabepwwOds4YGOBEYEuAItAX1SkKO6Sfo42MNMvr42U4WSD2lR79ZtODwkYGuYcMCnIkxVbCfj81jvG2ov7ctTTxsRVP3WdNI8dnH1zr4DwfXDBVI5mL2bxzq7zpvxEm3JpEcAW1BljTUpkhtgK8dLdtmRd7PrKDytfOpYZkFNSyZQ43LVJS1aQFte2nV7Q1bN2wUSOaAYjKjTrm9MOKEy4MRgS7EgixnlKCQgtiYY7bk9/RKalxqQY1LZlPD4lnUsKiLhTO7mEHVyy06Dz2zLFQgmYrJv2HkCdd9oi0JcsDcBMcftaMku0VCbA7kZIKABR+xYDolP2NdJpBMAcVokBzkeiKI9Ab62NEZt2WQ0ycIOZlgw/zpVPrR26kCyVhQjAJjjtsSmCMIOWDnvgFtyYIsZ1AQ1C237MyJCHtWIBkDikEwW2JCMSBneBaFoI8tRYrWZEFOjyXzVFMp2eL/VKaeppggyP7o7XtpaWn/EUiGQDEIlgKWYZ5PO0xx9fn0xdVLVHf5cwqvyaLlUR/rEeT2tKd/7reBnKKg3+R/0HsTRgP6UJAw+7+6gtymduspPj6+WCAZAqVbsIgjGRYbc9KNwmuz6NatW4DOX7tMV29cx4/p8vWrNCP41W7bc4nnWll7ghSLyfT+xDGPBcH4UfTRxNFUw2JaCdYsm0shISGUnZ29WiB1B0q3YIcCQWZ7QRBkqPR8Ha2Mcsc9Gn3CjdyS9tH62M0G2tOOrD5YrTj+gqf/hwUhx1C+arKuIJg3jYKDgigpKekTgdQdKHrB3hItx3L/OP0s3bh5ky6JpGYGv4Z21EYmJ9vFeNvSPM91iu2ZNOf/OumBD8aPpOr58gQrl6vo3LlzFBUVRWIIOZg9BocGOB/XFkBCSC+oOp3v0aKI9ym6LpehKEFAeaJMjgUn7d4IOcUJxvt/XWMQcuIzduZ/ZRMMKLRaRcHBwSyYaJYgXl/wVsCpQObplAMQpIMlkZwYbYrbins6fH71okxuAFrU244GHbGh6A1qFpQtEVmqKRQ/679Uop7KcrIEk197nkJDQyk6OpoSExNb8awmvy7hfQ4pQIKxDHsbApTxaSnfo/GnnsR9QBu7ZFMai3XkWBBjcMARa3rh5SWKcgproEyuXnDu6BEKDw+nuLg4zKaUn5+/QiApgaJI18sqaYNxWH6hARL0XOoh3NNhR0Ewfo625QdBSiaIZWKYtzWlJMynutXagoZ3MEymkzUFBQWhPSFHCQkJlJGRcUogKYGiCN7EBTKJFWLmhATwL08g16S9aF06W5WGe2JN/IzGnngCUjKGBthSQclCailTUeMOfdsz/enViHvnDh2ksLAwiomJgSBalLIeX5ISKIrgmAFtxmhLbordChHZ2Mv9vIosQt7UK1dctpAeNqipo8qSruerqMbacHragknPP8XpITmApYLS09PrBJISKIrgDAUPBjklxp18kmzjd9Dm/LP0fnYAbYzdIlrYSa9cSfkiok/UgO7XWVJruYo+OzWb6o1Mr2TVfDoTGEAREREUGxuL5CBHKSkpELxmsiAOiPBwPUQm19loSZ0NlnSnRkWXC5dR4atuRqUX5uWO3QtaE3KUnJwMWPCOOQm29kAMxxG6cswjQRV11K6kovw4So2KpKoVakU5FsxysqKzZ8+iNTFzQpDlKDU1FWvhfZPXQRztmSvGcsWQ0xJj7jSspKryVCoqKsJ+kjK3euidOWvEGNVaFlgOsBwmmTaTJxmcW+JBTZFSkJMJ3m9c9bC6Io3KysqotLSUCgoKKF08ZPmGpYqtmfz8E9i1cGvyuGM5fOIf6arJm20cyuJhTQGHSEP8bfTKPTzv3NLacr2utra2qby8nEBxcTHl5ORQ5s6tEJOlF+TrS5GRkUhPJifA+KO8vLxCgaQEiiI4ccYDM/qEGCU5FmO5ttbmmy0tLdTc3HwBkkgRFBYWUoZ42Mo1iyDGUOqzrtiSIT3tMcdi2oKnTBbEcToe2iAyORZjVDpyjLYkxiJSzH/3dZ1Xooj9e7DfxHqnPeYAdi+AMjMz0er2AkkJFEWwgcVxujFygx/JLZSJgbaaZZRQ9FmWtpy2ZE1NTVNJSQlSoPTTJ1iOylYvQHpY82RySI3lxHxx79q1a78VSEqg6AXfFeA4XS8yORXQkXPeX0vzvTQUlt+Wok8SSaJN8cCVYrKBYNrLz2JZwMSC1tSWY0HIYaOdK5BM3mwDfBHS18eG9DHIz1rILYCMXK56KTntr4EcQ+H5mmQ9kucrKyub0KYlz7tBkBK2emLsYWLh9CClnRy3p5VAMrlFmb5+tplfhxwTUQRJmSA1NTWdF63aVOj+AdXPm0rRPscxc0JOOzVODqCtL2Ao9eTrM5Gi9RR846OFkLMScvNNkpvn+RVReiSvX79+vsj7qKZ20UyKjIjA5MKCsuRE2p0igBWGAkIxSD8/m2Dj5JaQ474avWJADSBZKB+TN27coAt1dRczP3z7Ni8NaE0IMRDE7keknSCQDIFikD97Ww/t42tzayDkyiA3VwbLGRJjLD2QJCR12pTE5EYXL168IMSaOT0WY7nc3FxNfX19P4FkCBRjgKSqpHx+ZzdyLGOUHBMj2pUF8QlJ8W6JNM8LkWZuTQA5Me4ein/0FwTS15Ygk1uiLqJGC9KG5eQy+sTkxBd3sKQ2ED0vlo8mTlCMO2wK3AWSsaCYRGHxqtKv5BaTw16WM12MUblrKK5EeQlhSSGHcbdHIJkCisk0FtkVtNUu6YScuVIsxsyFZFGr0mYAbftFRUXFXoFkKihm4XioZvE8L80tgyIGxFgOWHyMdm3TSbK1tfW8RqNRCSRzQDGbeV53hqq9OoJ6KsZyTHzpoyQh50dEf/zO/5+MyqNjstqzPaOnYozq4/bCpGqNpUDqKShfGyrPO3OF6GFLz/bLEDFeDPfa2yw8NKcs3O9YCKSvC5SvHewP1Zs7/m/peftDS09NoJBLEUnWQkJwR+WhuSIkq1XuHSEqz/Z3537cPn/eLvqFQPq6QfmR0CvYK9gr2Cv4HfAlsqgLYFCokDwAAAAASUVORK5CYII=",
+		"84": "data:image/png;base64,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"
+	},
+	"developer": {
+		"name": "Google",
+		"url": "https://www.google.com"
+	},
+	"permissions": {
+		"geolocation": {
+			"description": "Required to show user's location on map"
+		}
+	},
+	"default_locale": "en-US",
+	"locales": {
+		"en-US": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Directions, Traffic & Transit",
+			"description": "Going somewhere? Go with Maps, the official app you can rely on for directions, traffic, transit, and details about millions of places, such as phone numbers, reviews, and opening hours."
+		},
+		"hi-IN": {
+			"name": "मैप",
+			"display": "Google मैप",
+			"subtitle": "रास्ते, ट्रैफ़िक और ट्रांज़िट",
+			"description": "कहीं जा रहे हैं? मैप की मदद लें, एक आधिकारिक ऐप्लिकेशन, जहां आपको रास्तों, ट्रैफ़िक, ट्रांज़िट और लाखों जगहों के फ़ोन नंबर, समीक्षाएं और खुलने के समय जैसी जानकारी भरोसेमंद जानकारी मिलती है."
+		},
+		"bn-IN": {
+			"name": "ম্যাপ",
+			"display": "Google ম্যাপ",
+			"subtitle": "দিকনির্দেশ, ট্রাফিক এবং ট্রানজিট",
+			"description": "কোথাও যাচ্ছেন? ম্যাপ ব্যবহার করুন এটি এমন একটি অফিসিয়াল অ্যাপ যার মাধ্যমে আপনি লক্ষ লক্ষ জায়গার সম্পর্কে নির্দেশ, ট্র্যাফিক, ট্রানজিট এবং বিশদ বিবরণের মতো তথ্য যেমন ফোন নম্বর, রিভিউ, খোলা থাকার সময় ইত্যাদি পেতে পারেন।"
+		},
+		"gu-IN": {
+			"name": "નકશા",
+			"display": "Google નકશા",
+			"subtitle": "દિશા નિર્દેશો, ટ્રાફિક અને પરિવહન",
+			"description": "ક્યાંક જઈ રહ્યાં છો? નકશા સાથે જાઓ, એવી અધિકૃત ઍપ જેના પર તમે દિશા નિર્દેશો, ટ્રાફિક, પરિવહન તેમજ ફોન નંબર, રિવ્યૂ અને ખૂલવાના સમય જેવી લાખો સ્થળોની વિગતો માટે ભરોસો રાખી શકો છો."
+		},
+		"kn-IN": {
+			"name": "ನಕ್ಷೆಗಳು",
+			"display": "Google ನಕ್ಷೆಗಳು",
+			"subtitle": "ದಿಕ್ಕುಗಳು, ಟ್ರಾಫಿಕ್‌ ಮತ್ತು ಸಾರಿಗೆ",
+			"description": "ಎಲ್ಲಿಗಾದರೂ ಹೋಗುತ್ತಿರುವಿರಾ? ನೀವು ಹೋಗಬೇಕೆಂದರೆ, ನಕ್ಷೆಗಳನ್ನು ಬಳಸಿ. ಏಕೆಂದರೆ ನೀವು ಟ್ರಾಫಿಕ್, ಸಾರಿಗೆ ಮತ್ತು ಫೋನ್ ಸಂಖ್ಯೆಗಳು, ವಿಮರ್ಶೆಗಳು ಮತ್ತು ವ್ಯವಹಾರದ ಸಮಯದಂತಹ ಲಕ್ಷಾಂತರ ಸ್ಥಳಗಳನ್ನು ಹುಡುಕಲು ಬಳಸುವ ಅಧಿಕೃತ ಅಪ್ಲಿಕೇಶನ್ ಇದಾಗಿದೆ."
+		},
+		"ml-IN": {
+			"name": "മാപ്‌സ്",
+			"display": "Google മാപ്‌സ്",
+			"subtitle": "ദിശാസൂചനകളും ട്രാഫിക്കും ട്രാൻസിറ്റും",
+			"description": "എവിടേക്കെങ്കിലും പോവുകയാണോ? ദിശാസൂചനകൾക്കും ട്രാഫിക്കിനും ട്രാൻസിറ്റിനും ഫോൺ നമ്പറുകളും അവലോകനങ്ങളും പ്രവൃത്തിസമയവും പോലെ, ദശലക്ഷക്കണക്കിന് സ്ഥലങ്ങളെ കുറിച്ചുള്ള വിശദാംശങ്ങൾക്കും നിങ്ങൾക്ക് ആശ്രയിക്കാവുന്ന ഔദ്യോഗിക ആപ്പായ, മാപ്‌സും കൂടെക്കരുതുക."
+		},
+		"mr-IN": {
+			"name": "नकाशे",
+			"display": "Google नकाशे",
+			"subtitle": "दिशानिर्देश, वाहतूक आणि परिवहन",
+			"description": "कुठे जात आहात? नकाशे वापरून जा, हे एक अधिकृत अ‍ॅप आहे, तुम्ही दिशानिर्देश, ट्रॅफिक, परिवहन आणि लाखो ठिकाणांच्या माहितीसाठी यावर विश्वास ठेवू शकता, जसे की फोन नंबर, पुनरावलोकने आणि सुरू होण्याची वेळ."
+		},
+		"ne-IN": {
+			"name": "नक्सा",
+			"display": "Google नक्सा",
+			"subtitle": "दिशा निर्देशनहरू, ट्राफिक तथा ट्रान्जिट",
+			"description": "कतै जाँदै हुनुहुन्छ? दिशानिर्देशनहरू, ट्राफिक, ट्रान्जिट तथा लाखौँ स्थानहरूको फोन नम्बर, समीक्षा तथा खुल्ने समयलगायतका विवरणका लागि भरपर्दो तथा आधिकारिक अनुप्रयोग अर्थात् नक्सामार्फत जानुहोस्।"
+		},
+		"pa-IN": {
+			"name": "ਨਕਸ਼ੇ",
+			"display": "Google ਨਕਸ਼ੇ",
+			"subtitle": "ਦਿਸ਼ਾਵਾਂ, ਟਰੈਫ਼ਿਕ ਅਤੇ ਆਵਾਜਾਈ",
+			"description": "ਕੀ ਕਿਤੇ ਜਾ ਰਹੇ ਹੋ? ਅਧਿਕਰਿਤ ਐਪ 'ਨਕਸ਼ੇ' ਅਨੁਸਾਰ ਜਾਓ, ਜਿਸ 'ਤੇ ਤੁਸੀਂ ਦਿਸ਼ਾਵਾਂ, ਟਰੈਫ਼ਿਕ ਅਤੇ ਫ਼ੋਨ ਨੰਬਰ, ਸਮੀਖਿਆਵਾਂ ਅਤੇ ਖੁੱਲ੍ਹਣ ਦੇ ਸਮਿਆਂ ਵਰਗੇ ਲੱਖਾਂ ਥਾਂਵਾਂ ਦੇ ਵੇਰਵਿਆਂ 'ਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ।"
+		},
+		"ta-IN": {
+			"name": "வரைபடம்",
+			"display": "Google வரைபடம்",
+			"subtitle": "வழிகள், ட்ராஃபிக் & டிரான்ஸிட்",
+			"description": "எங்காவது செல்கிறீர்களா? வழிகள், ட்ராஃபிக், டிரான்ஸிட் மற்றும் லட்சக்கணக்கான இடங்களின் ஃபோன் எண்கள், மதிப்புரைகள் மற்றும் திறந்திருக்கும் நேரங்கள் போன்ற நம்பகமான விவரங்களைக் கொண்ட அதிகாரப்பூர்வ பயன்பாடான வரைபடத்தைப் பயன்படுத்துங்கள்."
+		},
+		"te-IN": {
+			"name": "మ్యాప్స్",
+			"display": "Google మ్యాప్స్",
+			"subtitle": "దిశలు, ట్రాఫిక్ & ప్రయాణం",
+			"description": "ఎక్కడికైనా వెళుతున్నారా? మ్యాప్స్‌తో వెళ్లండి, మీరు ఫోన్ నంబర్‌లు, సమీక్షలు మరియు ప్రారంభ గంటల వంటి లక్షల స్థలాల గురించి దిశలు, ట్రాఫిక్, రవాణా మరియు వివరాల కోసం మీరు అధికారిక యాప్‌ను ఉపయోగించవచ్చు."
+		},
+		"ur-IN": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "ڈائریکشنز، ٹریفک اور ٹرانزٹ",
+			"description": "کہیں جا رہے ہیں؟ Maps، آفیشل ایپ کے ساتھ جائیں، جس پر آپ ڈائریکشنز، ٹریفک، ٹرانزٹ اور لاکھوں مقامات کے بارے میں تفصیلات، جیسے کہ فون نمبرز، جائزوں اور کھلنے کے اوقات کیلئے بھروسہ کر سکتے ہیں۔"
+		},
+		"af": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Rigtingaanwysings, verkeer, publieke vervoer",
+			"description": "Gaan jy iewers heen? Gaan met Maps, die amptelike program waarop jy kan staatmaak vir rigtingaanwysings, publieke vervoer en besonderhede van miljoene plekke, soos foonnommers, resensies en besigheidsure."
+		},
+		"ar": {
+			"name": "خرائط",
+			"display": "خرائط Google",
+			"subtitle": "الاتجاهات وحركة المرور والنقل العام",
+			"description": "هل ستذهب إلى مكان معيّن؟ استخدم خرائط Google، التطبيق الرسمي الذي يمكنك الاعتماد عليه في الحصول على الاتجاهات وحركة المرور والنقل العام وتفاصيل حول ملايين الأماكن، مثل أرقام الهاتف وآراء الجمهور وساعات العمل."
+		},
+		"de": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Wegbeschreibungen, Verkehr und ÖPV/ÖPNV",
+			"description": "Mit der Google Maps App kannst du zuverlässige Wegbeschreibungen, Informationen zur Verkehrslage und zu öffentlichen Verkehrsmitteln sowie Details zu Millionen von Orten, wie Telefonnummern, Rezensionen und Öffnungszeiten, abrufen."
+		},
+		"el": {
+			"name": "Χάρτες",
+			"display": "Χάρτες Google",
+			"subtitle": "Οδηγίες, κίνηση και δημόσια συγκοινωνία",
+			"description": "Πηγαίνετε κάπου; Χρησιμοποιήστε τους Χάρτες, την επίσημη εφαρμογή στην οποία μπορείτε να βασιστείτε για οδηγίες, κίνηση, δημόσια συγκοινωνία και λεπτομέρειες σχετικά με εκατομμύρια μέρη, όπως αριθμούς τηλεφώνου, κριτικές και ωράριο λειτουργίας."
+		},
+		"en-GB": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Directions, Traffic & Transit",
+			"description": "Going somewhere? Go with Maps, the official app you can rely on for directions, traffic, transit, and details about millions of places, such as phone numbers, reviews, and opening hours."
+		},
+		"es": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Indicaciones, tráfico y transporte público",
+			"description": "¿Quieres ir a algún sitio? Usa Maps, la aplicación oficial que no te fallará cuando busques indicaciones, información sobre el tráfico y el transporte público, y datos sobre millones de sitios, como números de teléfono, reseñas y horarios."
+		},
+		"fi": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Reittiohjeet, liikenne ja julkiset",
+			"description": "Oletko menossa jonnekin? Käytä virallista Google Maps ‑sovellusta. Sieltä saat reittiohjeita, tietoja liikenteestä ja julkisesta liikenteestä sekä puhelinnumeroita, arvosteluita, aukioloaikoja ja muita hyödyllisiä tietoja miljoonista eri paikoista."
+		},
+		"fil": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Direksyon, Trapiko, at Pampublikong Sasakyan",
+			"description": "May pupuntahan ka ba? Pumunta gamit ang Maps, ang opisyal na app na maaasahan mo para sa mga direksyon, trapiko, pampublikong sasakyan, at mga detalye tungkol sa milyun-milyong lugar, gaya ng mga numero ng telepono, review, at oras ng pagbubukas."
+		},
+		"fr": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Itinéraires, trafic et transports en commun",
+			"description": "Vous allez quelque part ? Laissez-vous aider par l'application officielle Google Maps. Grâce à elle, vous pouvez calculer des itinéraires, connaître les conditions de circulation et obtenir des informations sur les transports en commun et sur des millions de lieux (comme les numéros de téléphone, les avis et les horaires d'ouverture)."
+		},
+		"it": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Indicazioni, traffico e trasporto pubblico",
+			"description": "Vuoi raggiungere un luogo? Vai con Maps, l'app ufficiale su cui puoi contare per indicazioni stradali, traffico, trasporto pubblico e informazioni dettagliate, quali numeri di telefono, recensioni e orari di apertura, su milioni di luoghi."
+		},
+		"ms": {
+			"name": "Peta",
+			"display": "Peta Google",
+			"subtitle": "Arah, Trafik & Transit",
+			"description": "Ingin mengunjungi sesuatu tempat? Pergi menggunakan Peta, apl rasmi yang boleh anda gunakan untuk mendapatkan arah, trafik, transit dan butiran tentang berjuta-juta tempat, seperti nombor telefon, ulasan dan waktu perniagaan."
+		},
+		"nl": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Routebeschrijvingen, verkeersinformatie & OV",
+			"description": "Ga je op weg? Gebruik dan Maps, de officiële app waarop je kunt vertrouwen voor routebeschrijvingen (ook voor het openbaar vervoer), verkeersinformatie en informatie over miljoenen plaatsen, zoals telefoonnummers, reviews en openingstijden."
+		},
+		"pt-PT": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Direções, trânsito e transportes públicos",
+			"description": "Vai a algum lado? Então, vá com o Maps, a aplicação oficial de confiança para obter direções, informações sobre trânsito, transportes públicos e dados sobre milhões de locais, tais como números de telefone, comentários e horários de funcionamento."
+		},
+		"sv": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Vägbeskrivningar, trafik och kollektivtrafik",
+			"description": "Ska du resa någonstans? Ta med Maps, den officiella appen du kan lita på. Få vägbeskrivningar, trafikrapporter, rapporter om kollektivtrafik och information om miljoner platser, som telefonnummer, omdömen och öppettider."
+		},
+		"sw": {
+			"name": "Ramani",
+			"display": "Ramani za Google",
+			"subtitle": "Maelekezo, Trafiki na Usafiri wa Umma",
+			"description": "Je, unaenda mahali? Tumia Ramani, programu rasmi unayoweza kutegemea ili ikupe maelekezo, hali ilivyo katika barabara, usafiri wa umma na maelezo kuhusu mamilioni ya maeneo, kama vile nambari za simu, maoni na saa za kufungua."
+		},
+		"th": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "เส้นทาง การจราจร และขนส่งสาธารณะ",
+			"description": "ถ้าอยากไปไหนก็ใช้ Maps เลย เพราะเป็นแอปอย่างเป็นทางการที่คุณใช้ค้นหาเส้นทาง การจราจร ขนส่งสาธารณะ และข้อมูลของสถานที่หลายล้านแห่ง เช่น หมายเลขโทรศัพท์ รีวิว และเวลาทำการ ได้อย่างมั่นใจ"
+		},
+		"ur": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "ڈائریکشنز، ٹریفک اور ٹرانزٹ",
+			"description": "کہیں جا رہے ہیں؟ Maps، آفیشل ایپ کے ساتھ جائیں، جس پر آپ ڈائریکشنز، ٹریفک، ٹرانزٹ اور لاکھوں مقامات کے بارے میں تفصیلات، جیسے کہ فون نمبرز، جائزوں اور کھلنے کے اوقات کیلئے بھروسہ کر سکتے ہیں۔"
+		},
+		"vi": {
+			"name": "Maps",
+			"display": "Google Maps",
+			"subtitle": "Chỉ đường, giao thông, phương tiện công cộng",
+			"description": "Bạn muốn đi đến một nơi nào đó? Hãy sử dụng Maps, ứng dụng chính thức và đáng tin cậy cung cấp cho bạn thông tin chỉ đường, tình hình giao thông, phương tiện công cộng và thông tin chi tiết về hàng triệu địa điểm, chẳng hạn như số điện thoại, bài đánh giá và giờ mở cửa."
+		},
+		"zu": {
+			"name": "Amamephu",
+			"display": "I-Google Amamephu",
+			"subtitle": "Izikhombisi-ndlela, ithrafikhi nezokuthutha",
+			"description": "Khona lapho oya khona? Hamba ngamamephu, uhlelo lokusebenza olusemthethweni ongathembela kulo ukuze uthole izikhombisi-ndlela, ithrafikhi, ezokuthutha, nemininingwane mayelana nezindawo ezingamamiliyoni, njengezinombolo zefoni, izibuyekezo, namahora okuvula."
+		}
+	}
+}
