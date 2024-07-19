@@ -1,7 +1,6 @@
 {
 	"name": "Google Album",
 	"description": "Google Album Archive",
-	"type": "certified",
 	"fullscreen": true,
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
