@@ -6,7 +6,7 @@
 	"version": "1.0",
 	"start_url": "https://get.google.com/albumarchive",
 	"developer": {
-		"name": "Ivan",
+		"name": "tkt",
 		"url": "https://get.google.com/albumarchive"
 	},
 	"default_locale": "en-US",
