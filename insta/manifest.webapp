@@ -1,0 +1,44 @@
+{
+	"name": "Instagram",
+	"description": "Instagram",
+	"gcm_sender_id": "482941778795",
+	"gcm_sender_id_comment": "Do not change the GCM Sender ID",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://www.instagram.com",
+	"developer": {
+		"name": "ivan",
+		"url": "https://www.instagram.com"
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Instagram"
+		}
+	},
+	"icons": {
+		"128": "/icon.png"
+	},
+  "permissions": {
+    "browser": {
+      "description": "Required for embedding a browser"
+    },
+    "contacts": {
+      "description": "Find friends on Facebook from your contacts"
+    },
+    "desktop-notification": {
+      "description": "Required for desktop notifications"
+    },
+    "geolocation": {
+      "description": "Required for check-ins"
+    },
+    "mobileid": {
+      "description": "Verify phone number"
+    },
+    "push": {
+      "description": "Required for notifications"
+    }
+  }
+}
